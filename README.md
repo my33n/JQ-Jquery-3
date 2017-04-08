@@ -1,1 +1,1 @@
-# JQ-Jquery-3
+# jsjq-cuda
